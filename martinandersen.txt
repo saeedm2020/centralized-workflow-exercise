@@ -1,0 +1,7 @@
+
+git branch yourname/somefeature
+git checkout yourname/somefeature
+
+equivalent to
+
+git checkout -b yourname/somefeature
